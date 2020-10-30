@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 html, body{
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
@@ -21,7 +15,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(../images/header-bg.jpg) no-repeat center top;
+    background: url(../images/profile.png) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -67,7 +61,7 @@ body h1,h2,h3,h4,h5,h6{
     font-family: 'Open Sans', sans-serif;
 }
 .navigation-right ul li.active a{
-	    color: #00a78e;
+	    color: #f0bb59;
 }
 span.menu{
 	display:none;
@@ -88,8 +82,8 @@ span.menu{
 	overflow: hidden;
 	padding: 10px 0;
 	max-width: 0;
-	border-bottom: 3px solid #00a78e;
-    color: #00a78e;
+	border-bottom: 3px solid #f0bb59;
+    color: #f0bb59;
 	content: attr(data-hover);
 	-webkit-transition: max-width 0.5s;
 	-moz-transition: max-width 0.5s;
