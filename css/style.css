@@ -115,7 +115,7 @@ ul.address {
 	margin-bottom: 25px;
 }
 .header-left button{
-	margin-left: 80px;
+	margin-left: 100px;
 }
 .header-right {
     padding-left: 3em;
@@ -378,6 +378,9 @@ h4.tittle  {
     position: relative;
     padding: 20px;
     text-align: center;
+}
+.modal-body.about img{
+	width: 100%;
 }
 /*-- about-us --*/
 span.border {
